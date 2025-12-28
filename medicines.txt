@@ -1,0 +1,16 @@
+[Tablets]
+Paracetamol
+Azithromycin
+Crocin
+
+[Syrups]
+Cough Syrup
+Vitamin Syrup
+
+[Injections]
+Insulin
+Vitamin B12
+
+[Baby Care]
+Baby Shampoo
+Baby Powder
